@@ -1,0 +1,47 @@
+  
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Website 101</title>
+</head>
+
+<body>
+
+    <h1>Welcome to My Personal Website!</h1>
+
+    <h2>About Me</h2>
+
+    <p>
+        My name is donovan. I am a student at New jersey institution of technology.My favorite thing to do is play sports and game.
+I am studying computer engineering and Information technology
+    </p>
+
+    <p>
+        My goal for this year is to make sure I am ontop of my work and understand the material the teachers give me.
+        Balancing life at home,work, and school is a little difficult but I can manage it.
+        This actually motivated me to be better with all the responsibily I have in my life to further my success
+    </p>
+
+    <h2>My Interests</h2>
+
+    <ul>
+        <li>Technology and computers</li>
+        <li>Learning programming</li>
+        <li>Exploring new websites</li>
+    </ul>
+
+    <h2>My Image</h2>
+
+    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=500"
+         alt="Computer circuit board"
+         width="300">
+
+ <h2>Useful Website</h2>
+
+    <p>
+        Visit <a href="https://www.njit.edu/">
+        NJIT's Official Website</a> to learn about the university.
+    </p>
+
+</body>
+</html>
